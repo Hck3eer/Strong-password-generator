@@ -21,6 +21,15 @@ This Python script generates strong, secure, and random passwords. It ensures ea
 
 Clone the repository or download the ZIP file:
 
-```bash
-git clone https://github.com/your-username/strong-password-generator.git
-cd strong-password-generator
+
+
+
+License
+This project is licensed under the MIT License. You are free to use, modify, and distribute it for personal or commercial purposes.
+
+Author
+Developed by Ameer Hamza
+GitHub: https://github.com/Hck3eer
+
+
+
